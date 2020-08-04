@@ -1,5 +1,5 @@
 {
-  "author": "",
+  "author": "Candidate number",
   "babel": {
     "plugins": [
       "@babel/plugin-proposal-class-properties"
@@ -26,7 +26,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.1",
-    "react-router-dom": "5.1.2",
+    "react-router-dom": "^5.1.2",
     "redux": "^4.0.5"
   },
   "description": "",
@@ -62,7 +62,7 @@
   "keywords": [],
   "license": "LGPL-3.0",
   "main": "index.js",
-  "name": "connect4",
+  "name": "exampractice",
   "scripts": {
     "build": "webpack --mode production",
     "dev": "concurrently \"yarn watch:client\" \"yarn watch:server\"",
